@@ -20,9 +20,9 @@ step 8: go to your browser and enter "localhost:8000/restaurant/"
 
 The api implements two endpoints
 
-/restaurant/menu
-/restaurant/booking
+* /restaurant/menu
+* /restaurant/booking
 
 You can also use endpoints for authentication provided by djoser library such 
-/auth/token/login
-/auth/users
+* /auth/token/login
+* /auth/users
